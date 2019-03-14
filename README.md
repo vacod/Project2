@@ -1,4 +1,4 @@
-# Project2
+# Bouncy Balls
 
 ## Project Directive
 
