@@ -25,7 +25,7 @@ Click on <https://bouncy-balls.herokuapp.com/> to run the app from the Heroku we
 The program starts automatically after the page has benn loaded. 
 The balls will start traveling and bouncing off the screen edges.
 
-## Change the location of a ball
+## Changing the location of a ball
 
 Select the ball you wish to stop (left mouse click) and keep pressing the mouse while 
 moving it to the new desired location. The ball will stop its preset movement and follow
